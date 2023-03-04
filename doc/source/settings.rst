@@ -20,6 +20,8 @@ loaded. [#order]_
 What follows is a non-exhaustive list of the most relevant
 customization options.
 
+Hej :kbd:`C-f`, ok.
+
 
 The initial state
 -----------------
